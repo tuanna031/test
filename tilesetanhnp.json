@@ -1,0 +1,43 @@
+{
+  "asset": {
+    "version": "0.0",
+    "tilesetVersion": "1.0.0-obj23dtiles",
+    "gltfUpAxis": "Y"
+  },
+  "geometricError": 200,
+  "root": {
+    "transform": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      6378137,
+      0,
+      0,
+      1
+    ],
+    "boundingVolume": {
+      "region": [
+        -6.705371405100822e-7,
+        -9.155540113554001e-7,
+        7.405278594899178e-7,
+        3.475739886445999e-7,
+        -10.866777420043945,
+        8.653024673461914
+      ]
+    },
+    "geometricError": 0,
+    "refine": "ADD",
+    "content": {
+      "uri": "3d.b3dm"
+    }
+  }
+}
